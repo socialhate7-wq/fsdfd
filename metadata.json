@@ -1,0 +1,6 @@
+{
+  "name": "BASKETDATA - Basketball Analytics & Vintage Cards",
+  "description": "BASKETDATA: Advanced basketball analytics platform, authentic vintage cards, telemetry, and real-time player insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
